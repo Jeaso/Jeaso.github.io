@@ -1,0 +1,53 @@
+body{
+	background-color: #64D10B;
+	
+}
+
+
+.imagen{
+	display: block;
+    margin: auto;
+}
+
+.texto{
+	font-size: 20px;
+	color: black;
+}
+	
+a{
+	text-decoration: underline;
+	font-size: 20px;
+	color: black;
+}
+@media screen and (max-width: 400px){
+	body{background-color: #51B408;
+		}
+	div{
+	background-color: #F2F2F2;
+	 width: 100%;
+	 height: auto;
+	 border: 2px solid green;
+	}
+	img{
+		height:auto;
+		max-width: 100%;
+	}
+	iframe{
+		height: auto;
+		max-width: 100%
+	}
+}
+.imagenp{
+	font-size: 30px;
+	color:  #167C68;
+	
+}
+´.pie{
+	font-size: 18px;
+	}
+.titulo{
+	font-size: 80px;
+	color: #167C68; 
+	text-align: center;
+	background-image: url(Imagenes/banner.jpg);
+}
