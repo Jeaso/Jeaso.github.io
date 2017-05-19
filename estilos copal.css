@@ -13,6 +13,7 @@ body{
 	font-size: 20px;
 	color: black;
 	padding: 10px 10px;
+
 }
 	
 a{
@@ -22,6 +23,8 @@ a{
 }
 @media screen and (max-width: 400px){
 	body{background-color: #51B408;
+		background-image: url(Imagenes/fondom.jpg);
+		background-size: cover;
 		}
 	div{
 	background-color: #F2F2F2;
@@ -35,16 +38,22 @@ a{
 	}
 	iframe{
 		height: auto;
-		max-width: 100%
+		max-width: 100%;
+	}
+	.texto {
+		font-size: 15px;
+		text-align: justify;
 	}
 }
+
 .imagenp{
 	font-size: 30px;
-	color:  #167C68;
+	color:  #F2F2F2;
 	
 }
-´.pie{
+.pie{
 	font-size: 18px;
+	color: #F2F2F2;
 	}
 .titulo{
 	font-size: 80px;
