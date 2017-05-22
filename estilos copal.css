@@ -56,10 +56,15 @@ a{
 .pie{
 	font-size: 18px;
 	color: #F2F2F2;
+	text-align: center;
 	}
 .titulo{
 	font-size: 80px;
 	color: #167C68; 
 	text-align: center;
 	background-image: url(Imagenes/banner.jpg);
+}
+iframe{
+	display: block;
+	margin: auto;
 }
