@@ -1,6 +1,7 @@
 body{
 	background-color: #64D10B;
-	
+	background-image: url(Imagenes/hojas.jpg);
+	background-size: cover;
 }
 
 
