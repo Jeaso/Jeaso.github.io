@@ -23,7 +23,7 @@ a{
 }
 @media screen and (max-width: 400px){
 	body{background-color: #51B408;
-		background-image: url(Imagenes/fondom.jpg);
+		background-image: url(Imagenes/forest.jpg);
 		background-size: cover;
 		}
 	div{
